@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77891953180",
+    "project_id": "socialgamer-a5be1",
+    "storage_bucket": "socialgamer-a5be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77891953180:android:129113e67031a50b3375d9",
+        "android_client_info": {
+          "package_name": "com.example.socialgamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77891953180-0jlu5id6attpq81kr40rrn7oke7hdccr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialgamer",
+            "certificate_hash": "6f16645401cf110a24e3e8cd5436005509f9a77b"
+          }
+        },
+        {
+          "client_id": "77891953180-9n1t8rtb48drrlrccp4c22706kqddb17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6z64wpNHLs1HDCSx8uX1SKBdBAqqmwY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77891953180-9n1t8rtb48drrlrccp4c22706kqddb17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
